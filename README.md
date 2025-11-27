@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I am Daniela! 🌸
 
-<!--
-**daniirodj2006/daniirodj2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+🎓 Computer Science Engineer student at [Universdidad Fidelitas](https://ufidelitas.ac.cr/) (Costa Rica) <br/>
 
-Here are some ideas to get you started:
+⭐Current career progress:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://geps.dev/progress/60?dangerColor=ff69b4&warningColor=ff69b4&successColor=ff69b4" alt="Progress"/>
+
+</div>
+ 
+
+</div>
+
+### 🛠️ Knowledge
+```
+💻 Languages:      PHP • Java • JavaScript • SQL/PL-SQL
+🎨 Frontend:       HTML • CSS • JavaScript
+⚙️ Backend:        PHP • MySQL • Oracle • Java
+```
+
+ 📊 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniirodj2006&show_icons=true&theme=omni)](https://github.com/daniirodj2006/github-readme-stats)
