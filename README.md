@@ -33,7 +33,7 @@ Some languages/Technologies I have interacted with and have some knowledge and f
  
  ## 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniirodj2006&show_icons=true&theme=omni)](https://github.com/daniirodj2006/github-readme-stats) ![LeetCode Stats](https://leetcode.card.workers.dev/daniirod20?theme=dark&font=source_code_pro&extension=null)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniirodj2006&show_icons=true&theme=omni)](https://github.com/daniirodj2006/github-readme-stats) 
 
 
 ## 🏆 GitHub Trophies
