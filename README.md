@@ -2,7 +2,7 @@
 ---
 <div align="center">
  
-🎓 Computer Science Engineer student at [Universdidad Fidelitas](https://ufidelitas.ac.cr/) (Costa Rica) <br/>
+🎓 Computer Science Engineer student at [Universidad Fidelitas]([https://ufidelitas.ac.cr]) (Costa Rica) <br/>
 
  ⭐Current career progress:
 
